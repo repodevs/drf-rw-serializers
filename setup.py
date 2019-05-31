@@ -47,7 +47,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        "Django>=1.8,<2.2"
+        "Django>=1.8,<2.3"
     ],
     license="MIT",
     zip_safe=False,
